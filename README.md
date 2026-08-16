@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📞-9476590303-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/📞-9676590855-10B981?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📍-Nakrekal-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Kakinada , Andhra Pradesh -059669?style=flat-square" />
   &nbsp;
-  <a href="mailto:mohenbalaji23125@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohenbalaji23125@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:mohanbalaji2525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohanbalaji2525@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -52,25 +52,46 @@ $ cat status.txt
 ```
 ---
 
+---
+
 ## 💼 Experience
 
 <table>
   <tr>
-    <td width="70%">
-      <strong>🏢 Data Analytics Job Simulation</strong> · <strong>Deloitte</strong> via Forage<br/>
-      <code>June 2025</code>
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/Virtual%20Internship-10B981?style=flat-square" />
-    </td>
-  </tr>
-</table>
+    <td width="50%" valign="top">
 
-- Completed practical data tasks using business technology tools using industry-based business scenarios
+### 📊 Data Analytics Job Simulation
+
+**Deloitte** via Forage  
+<code>June 2025</code>
+
+<img src="https://img.shields.io/badge/Virtual%20Internship-10B981?style=flat-square" />
+
+- Completed practical data tasks using business technology tools in industry-based business scenarios
 - Analyzed datasets to identify patterns, trends, and actionable insights
 - Applied data analysis and problem-solving techniques to communicate business findings
 
 `Data Analysis` `Excel` `Business Analytics` `Problem Solving` `Data Visualization`
+
+
+
+### ☁️ Microsoft Azure Cloud Computing Internship
+
+**Tencon Infra**  
+<code>Short-Term Internship</code>
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+- Gained practical exposure to Microsoft Azure cloud computing concepts and services
+- Learned Azure virtual machines, resource management, networking, storage, and cloud infrastructure concepts
+- Explored Azure security concepts including network security, access control, and secure cloud configurations
+- Studied Azure services including Azure CLI, Azure Functions, AKS, Cosmos DB, and Key Vault
+
+`Microsoft Azure` `Cloud Computing` `Azure VMs` `Networking` `Cloud Security`
+  </tr>
+</table>
+
+---
 
 ---
 
