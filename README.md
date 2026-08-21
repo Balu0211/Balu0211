@@ -238,7 +238,7 @@ $ cat status.txt
 |:---|:---|
 | **Google × Kaggle AI Agents Badge** | Earned by completing the 5-Day AI Agents Intensive Vibe Coding Course with Google |
 | **1st Place — Skill-Expo "Life Drop" Project** | Winner of college-level skill exhibition for the responsive blood donation web app |
-| **Winner — My Aptitude Competition** | 1st place in college-level aptitude competition |
+| **Winner — Mr Aptitude Competition** | 1st place in college-level aptitude competition |
 | **QuizOff 2026 _ India's Biggest AI Quiz** | Participated in a national-level AI quiz organized by CampusCrew and hosted on Unstop, with 5,25,000+ students from 48,500+ institutions. |
 
 </p>
@@ -276,7 +276,7 @@ status: ACTIVELY_SEEKING ✅
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:mohenbalaji23125@gmail.com">
+  <a href="mailto:mohanbalaji2525@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mohenbalaji23125@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
